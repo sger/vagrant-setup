@@ -8,3 +8,7 @@ Run the following commands from terminal to install the provisioning profile.
     vagrant init
     vagrant up
 
+Login
+
+    vagrant ssh
+
