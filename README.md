@@ -1,10 +1,10 @@
 vagrant-setup
 =============
 
-Download [http://www.vagrantup.com](Vagrant)
+Download [Vagrant](http://www.vagrantup.com)
 
-Run from terminal to install the provisioning profile
+Run the following commands from terminal to install the provisioning profile.
 
-    vagrant init hashicorp/precise32
+    vagrant init
     vagrant up
 
